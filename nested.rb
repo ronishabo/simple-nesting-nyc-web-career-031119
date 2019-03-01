@@ -18,6 +18,7 @@ def hopper
 
 end
 
+return programmer_hash[:grace_hopper]
 
 
 def alan_kay_is_known_for
@@ -125,8 +126,4 @@ def adding_to_dennis
 
 end
 
-
-
-
-return programmer_hash[:grace_hopper]
 
